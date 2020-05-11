@@ -7,9 +7,9 @@ A simple version of the Snake game that generates randomly the apples by measuri
 
 ### Pre-requisites
 To run the game you need to have installed:
-- the [Microsoft Quantum Development Kit for Python](https://docs.microsoft.com/en-us/quantum/install-guide/pyinstall)
-- Python 3.7.X and the standard libraries (e.g. Numpy)
-- the Pygame library
+- the [Microsoft Quantum Development Kit for Python](https://docs.microsoft.com/en-us/quantum/install-guide/pyinstall).
+- Python 3.7.X and the standard libraries (e.g. Numpy).
+- the Pygame library.
 ### Run the game
 To run the game you just need to download this repository and execute the Python file from the terminal or the IDE you use.
 
